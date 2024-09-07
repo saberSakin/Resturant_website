@@ -13,8 +13,8 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-            At Bite! we're all about great food and easy online ordering. Our chefs whip up fresh, tasty dishes that hit the spot, no matter what you’re craving. From comfort classics to healthy bites, we’ve got something for everyone.
-            Order online and let us bring delicious food right to your door. Fast, fresh, and full of flavor—that's how we do it!
+            At Bite! we're all about great food and great service. Our chefs whip up fresh, tasty dishes that hit the spot, no matter what you're craving. From comfort classics to healthy bites, we've got something for everyone.
+            Make reservation online and let us bring delicious food right to your door. Fast, fresh, and full of flavor, that's how we do it!
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
